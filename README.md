@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Description
+
+This project is used for testing code snippets and components
 
 ## Available Scripts
 
